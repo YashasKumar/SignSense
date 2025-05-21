@@ -56,4 +56,13 @@ python working.py
 - Transformer-based sequence-to-sequence models for direct video-to-text sign translation
 - Full sentence-level sign language recognition with temporal segmentation
 - GPU-accelerated keypoint extraction (e.g., MMPose) for faster real-time inference
+
+## Demo
+
+[🎬 Watch the demo video](https://github.com/yourusername/SignSense/blob/main/demo.mp4?raw=true)
+
 - Advanced NLP integration for contextual sign language interpretation
+
+## Demo
+
+[🎬 Click here to watch the demo video](.mp4)
