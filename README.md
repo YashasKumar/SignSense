@@ -60,4 +60,4 @@ python working.py
 
 ## Demo
 
-[🎬 Watch the demo video](https://github.com/YashasKumar/SignSense/blob/main/demo.mp4?raw=true)
+[🎬 Watch the demo video](https://github.com/YashasKumar/SignSense/blob/main/demo.mp4?raw=true) (The demo.mp4 file in the repository)
