@@ -2,6 +2,10 @@
 
 This repository contains a preprocessing and real-time inference pipeline for training and recognizing sign language gestures using the **MS-ASL** dataset. It leverages **MediaPipe Holistic** for extracting 3D keypoints of hands and pose, performs advanced preprocessing including pairwise distance computation, and integrates with deep learning models for sign classification. Additionally, it demonstrates the use of **transformers (LLaMA 2)** for natural language sentence formation from unordered words, showcasing potential NLP integration.
 
+## Demo
+
+[🎬 Watch the demo video](https://drive.google.com/file/d/1G0yi6ZC9k3cfLz65vR76GneQEhaBfLrK/view?usp=sharing) (Download the video from the drive)
+
 ## Features
 
 - Frame-wise keypoint extraction using MediaPipe Holistic (Pose, Left & Right Hands)
@@ -57,7 +61,3 @@ python working.py
 - Full sentence-level sign language recognition with temporal segmentation
 - GPU-accelerated keypoint extraction (e.g., MMPose) for faster real-time inference
 - Advanced NLP integration for contextual sign language interpretation
-
-## Demo
-
-[🎬 Watch the demo video](https://drive.google.com/file/d/1G0yi6ZC9k3cfLz65vR76GneQEhaBfLrK/view?usp=sharing) (The demo.mp4 file in the repository)
